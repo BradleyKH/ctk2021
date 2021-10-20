@@ -1,4 +1,9 @@
 BODY {
+    margin: 0;
+    font-family: 'Arial';
+}
+
+MAIN {
     margin: 10px;
 }
 
@@ -19,3 +24,11 @@ TABLE TD, TH {
     padding: 10px;
 }
 
+.logo-container {
+    background-color: #555;
+    padding: 10px;
+}
+
+.logo {
+    
+}
