@@ -1,0 +1,21 @@
+BODY {
+    margin: 10px;
+}
+
+A {
+    color: green;
+}
+
+A:hover {
+    color: #0080FF;
+}
+
+TABLE {
+    border-collapse: collapse;
+}
+
+TABLE TD, TH {
+    border: 1px solid gray;
+    padding: 10px;
+}
+
